@@ -5,6 +5,7 @@ h1{
 }
 body {
     background-image: url("ram.jpeg");
+    background-attachment: fixed;
     background-repeat: no-repeat;
   background-position: center;
   

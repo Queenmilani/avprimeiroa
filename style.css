@@ -4,7 +4,7 @@ h1{
     color: rgb(40, 204, 68);
 }
 body {
-    background-image: url("ram.jpeg");
+    background-color: aqua;
     background-attachment: fixed;
     background-repeat: no-repeat;
   background-position: center;

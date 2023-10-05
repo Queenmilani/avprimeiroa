@@ -3,14 +3,7 @@ h1{
     font-size: 25px;
     color: rgb(34, 36, 34);
 }
-body {
-    background-color: aqua;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-  background-position: center;
-   padding:200% ;
-  width: 200%;
-}
+
 
 
 

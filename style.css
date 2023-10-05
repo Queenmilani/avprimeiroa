@@ -5,4 +5,5 @@ h1{
 }
 body{
     background-image: url("ram.jpeg");
+    background-repeat: no-repeat;
 }

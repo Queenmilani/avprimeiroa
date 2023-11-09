@@ -12,3 +12,12 @@ body{
     display: inline-block;
     padding: 10px 20px;
     }
+    .botao{
+        background-color: brown;
+        color: beige;
+        border: none;
+        text-align: center;
+        padding: 10px 20px;
+        display: inline-block;
+        cursor: pointer;
+    }

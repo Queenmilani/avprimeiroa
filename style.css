@@ -26,3 +26,7 @@ body{
         display: inline-block;
         cursor: pointer;
     }
+    ul{
+        font-size: 10px;
+        color: aliceblue;
+    }
